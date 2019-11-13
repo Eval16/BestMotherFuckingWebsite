@@ -1,0 +1,68 @@
+html
+{
+    background-color: #f9f9f9;
+    color : #545454;
+}
+
+nav
+{ 
+    float: right;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+header
+{
+    clear: both;
+}
+
+body 
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+
+a
+{
+    color: #85144b;
+}
+
+span.websitename
+{
+    color: #85144b;
+}
+
+span.blue
+{
+    color: #0074D9;
+}
+
+span.purple
+{
+    color: #B10DC9;
+}
+
+span.word
+{
+    color: red;
+}
+
+figure
+{
+    float: left;
+}
+
+section
+{
+    clear: both;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+    
