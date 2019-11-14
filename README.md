@@ -7,6 +7,6 @@ Pour le projet _BestMotherFuckingWebsite_, il fallait reproduire la mise en page
 
 ### Contributeurs
 
-Ce projet a été réalisé par Nazlati Hafidhou.
+Ce projet a été réalisé par Nazlati Hafidhou et Eva Le Du, s'appuyant sur les cours de Felix Gaudé et The Hacking Project.
 
 
